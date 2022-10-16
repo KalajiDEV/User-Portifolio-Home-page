@@ -105,8 +105,6 @@ body.active {
   font-size: 1.5rem;
 }
 
-.header .navbar {}
-
 .header .navbar a {
   display: block;
   padding: 12px;
@@ -233,28 +231,6 @@ body.active {
   box-shadow: var(--box-shadow--inset);
   color: var(--green);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* media queries */
 
